@@ -5,3 +5,4 @@ function test(msg) {
 test('Hello, Duniya!');
 
 
+console.log('Auto save');
